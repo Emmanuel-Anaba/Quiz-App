@@ -1,0 +1,265 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        {"option": "Paris", "correct": true},
+        {"option": "Berlin", "correct": false},
+        {"option": "Rome", "correct": false},
+        {"option": "Madrid", "correct": false}
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        {"option": "Venus", "correct": false},
+        {"option": "Mars", "correct": true},
+        {"option": "Jupiter", "correct": false},
+        {"option": "Saturn", "correct": false}
+      ]
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        {"option": "Ernest Hemingway", "correct": false},
+        {"option": "Harper Lee", "correct": true},
+        {"option": "Mark Twain", "correct": false},
+        {"option": "J.K. Rowling", "correct": false}
+      ]
+    },
+    {
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": [
+        {"option": "Oxygen", "correct": false},
+        {"option": "Nitrogen", "correct": true},
+        {"option": "Carbon dioxide", "correct": false},
+        {"option": "Helium", "correct": false}
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        {"option": "Leonardo da Vinci", "correct": true},
+        {"option": "Pablo Picasso", "correct": false},
+        {"option": "Vincent van Gogh", "correct": false},
+        {"option": "Michelangelo", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        {"option": "H<sub>2</sub>O", "correct": true},
+        {"option": "CO<sub>2</sub>", "correct": false},
+        {"option": "NaCl", "correct": false},
+        {"option": "O<sub>2</sub>", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the author of '1984'?",
+      "options": [
+        {"option": "George Orwell", "correct": true},
+        {"option": "Aldous Huxley", "correct": false},
+        {"option": "Ray Bradbury", "correct": false},
+        {"option": "H.G. Wells", "correct": false}
+      ]
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": [
+        {"option": "Lion", "correct": true},
+        {"option": "Tiger", "correct": false},
+        {"option": "Elephant", "correct": false},
+        {"option": "Gorilla", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        {"option": "Mercury", "correct": false},
+        {"option": "Venus", "correct": false},
+        {"option": "Jupiter", "correct": true},
+        {"option": "Saturn", "correct": false}
+      ]
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        {"option": "William Shakespeare", "correct": true},
+        {"option": "Jane Austen", "correct": false},
+        {"option": "Charles Dickens", "correct": false},
+        {"option": "Emily Bronte", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is famous for the Taj Mahal?",
+      "options": [
+        {"option": "India", "correct": true},
+        {"option": "China", "correct": false},
+        {"option": "Japan", "correct": false},
+        {"option": "Turkey", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        {"option": "Au", "correct": true},
+        {"option": "Ag", "correct": false},
+        {"option": "Fe", "correct": false},
+        {"option": "Pb", "correct": false}
+      ]
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": [
+        {"option": "Alexander Graham Bell", "correct": true},
+        {"option": "Thomas Edison", "correct": false},
+        {"option": "Nikola Tesla", "correct": false},
+        {"option": "Albert Einstein", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": [
+        {"option": "Tokyo", "correct": true},
+        {"option": "Beijing", "correct": false},
+        {"option": "Seoul", "correct": false},
+        {"option": "Bangkok", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "options": [
+        {"option": "O<sub>2<sub/>", "correct": false},
+        {"option": "O<sub>3<sub/>", "correct": false},
+        {"option": "O", "correct": false},
+        {"option": "O<sub>4<sub/>", "correct": true}
+      ]
+    },
+    {
+      "question": "Who was the first man to step on the moon?",
+      "options": [
+        {"option": "Neil Armstrong", "correct": true},
+        {"option": "Buzz Aldrin", "correct": false},
+        {"option": "Yuri Gagarin", "correct": false},
+        {"option": "John Glenn", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        {"option": "China", "correct": false},
+        {"option": "Japan", "correct": true},
+        {"option": "India", "correct": false},
+        {"option": "South Korea", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the author of 'Harry Potter' series?",
+      "options": [
+        {"option": "J.K. Rowling", "correct": true},
+        {"option": "Stephen King", "correct": false},
+        {"option": "George R.R. Martin", "correct": false},
+        {"option": "J.R.R. Tolkien", "correct": false}
+      ]
+    },
+    {
+      "question": "Which of the following is not a primary color?",
+      "options": [
+        {"option": "Red", "correct": false},
+        {"option": "Blue", "correct": false},
+        {"option": "Yellow", "correct": false},
+        {"option": "Green", "correct": true}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "options": [
+        {"option": "Na", "correct": true},
+        {"option": "Sn", "correct": false},
+        {"option": "S", "correct": false},
+        {"option": "Ni", "correct": false}
+      ]
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": [
+        {"option": "George Washington", "correct": true},
+        {"option": "Thomas Jefferson", "correct": false},
+        {"option": "Abraham Lincoln", "correct": false},
+        {"option": "John Adams", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "options": [
+        {"option": "Ag", "correct": true},
+        {"option": "Au", "correct": false},
+        {"option": "Pt", "correct": false},
+        {"option": "Fe", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the tallest mammal?",
+      "options": [
+        {"option": "Elephant", "correct": false},
+        {"option": "Giraffe", "correct": true},
+        {"option": "Whale", "correct": false},
+        {"option": "Kangaroo", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for carbon?",
+      "options": [
+        {"option": "C", "correct": true},
+        {"option": "Ca", "correct": false},
+        {"option": "Co", "correct": false},
+        {"option": "Cr", "correct": false}
+      ]
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": [
+        {"option": "Alexander Fleming", "correct": true},
+        {"option": "Louis Pasteur", "correct": false},
+        {"option": "Marie Curie", "correct": false},
+        {"option": "Albert Einstein", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "options": [
+        {"option": "Fe", "correct": true},
+        {"option": "Au", "correct": false},
+        {"option": "Ag", "correct": false},
+        {"option": "Cu", "correct": false}
+      ]
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "options": [
+        {"option": "Earth", "correct": false},
+        {"option": "Mars", "correct": false},
+        {"option": "Mercury", "correct": true},
+        {"option": "Venus", "correct": false}
+      ]
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "options": [
+        {"option": "Vincent van Gogh", "correct": true},
+        {"option": "Pablo Picasso", "correct": false},
+        {"option": "Leonardo da Vinci", "correct": false},
+        {"option": "Claude Monet", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for helium?",
+      "options": [
+        {"option": "He", "correct": true},
+        {"option": "H", "correct": false},
+        {"option": "Ne", "correct": false},
+        {"option": "Ar", "correct": false}
+      ]
+    }
+  ]
+}
